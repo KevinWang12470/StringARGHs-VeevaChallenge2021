@@ -1,0 +1,24 @@
+{
+  "name": "StringARGHs-VeevaChallenge2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinWang12470/StringARGHs-VeevaChallenge2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinWang12470/StringARGHs-VeevaChallenge2021/issues"
+  },
+  "homepage": "https://github.com/KevinWang12470/StringARGHs-VeevaChallenge2021#readme"
+}
